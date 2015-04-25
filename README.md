@@ -19,3 +19,12 @@
 2. [Model](https://github.com/curran/model)
 3. [WebRx](https://github.com/WebRxJS/WebRx)
 4. [hypr](https://github.com/idmitriev/hypr)
+
+##Utils
+1. [Ramda](https://github.com/ramda/ramda)
+2. [Lodash](https://github.com/lodash/lodash)
+3. [Underscore](https://github.com/jashkenas/underscore)
+4. [Async](https://github.com/caolan/async)
+5. [Neo-Async](https://github.com/suguru03/neo-async)
+6. [Lazy.js](https://github.com/dtao/lazy.js)
+7. [Functional-js](https://github.com/leecrossley/functional-js/)
