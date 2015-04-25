@@ -13,6 +13,7 @@
 10. [Reactive](https://github.com/mattbaker/Reactive.js)
 11. [flapjax](https://github.com/brownplt/flapjax)
 12. [RxJS(ES6)](https://github.com/ReactiveX/RxJS)
+13. [highland](https://github.com/caolan/highland)
 
 ##Frameworks
 1. [Cycle](https://github.com/staltz/cycle)
