@@ -29,3 +29,11 @@
 5. [Neo-Async](https://github.com/suguru03/neo-async)
 6. [Lazy.js](https://github.com/dtao/lazy.js)
 7. [Functional-js](https://github.com/leecrossley/functional-js/)
+
+##Talks
+
+* [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
+
+##Tutorials
+
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
